@@ -1,0 +1,1 @@
+{"name":"My Awesome App","short_name":"Awesome App","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"An awesome progressive web app!","theme_color":"#ffffff","icons":[{"src":"/zonnig-s.png","sizes":"512x512","type":"image/svg"}]}
